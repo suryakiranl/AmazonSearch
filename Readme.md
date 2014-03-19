@@ -5,17 +5,17 @@ Create a command line application called amazon.py.  The application accepts a c
 
 ./amazon.py --sort rating --desc office chairs
 
-Flash Furniture Mid-Back Black Mesh Computer Chair
-Price: $59.88
-Rating: ★★★☆☆ (242 reviews)
-Url: http://www.amazon.com/Flash-Furniture-Mid-Back-Black-Computer
+    Flash Furniture Mid-Back Black Mesh Computer Chair
+    Price: $59.88
+    Rating: ★★★☆☆ (242 reviews)
+    Url: http://www.amazon.com/Flash-Furniture-Mid-Back-Black-Computer
 
-Boss Black LeatherPlus Executive Chair
-Price: $159.99
-Rating: ★★★★☆ (502 reviews)
-Url: http://www.amazon.com/Flash-Furniture-Mid-Back-Black-Computer
+    Boss Black LeatherPlus Executive Chair
+    Price: $159.99
+    Rating: ★★★★☆ (502 reviews)
+    Url: http://www.amazon.com/Flash-Furniture-Mid-Back-Black-Computer
 
-... and so on ...
+    ... and so on ...
 
 ## Requirements
 
