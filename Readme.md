@@ -26,3 +26,4 @@ Create a command line application called amazon.py.  The application accepts a c
 4.  The program must accept the options `--sort {rating, price, name}` and `--{asc, desc}` at a minimum.
 5.  Support additional flags such as `--prime` (only select items which have amazon prime benefits)
 6.  The program should return no more than 10 results.  Check if we can allow `--limit {number of results}`.
+
